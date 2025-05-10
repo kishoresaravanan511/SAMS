@@ -1,0 +1,11 @@
+{
+    "username" : "User Name",
+    "password" : "Password",
+    "samslogin" : "SAMS LOGIN",
+    "login" : "Login",
+    "dashboard" : "Dashboard",
+    "logout" : "Logout",
+    "welcomeMessage" : "Welcome to SAMS",
+    "userValidation" : "Please Enter User Name",
+    "pwdValidation" : "Please Enter Password"
+}
